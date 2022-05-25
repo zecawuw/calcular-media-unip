@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Calcular-Media-UNIP",
+    "slug": "Calcular-Media-UNIP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e53a8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#1e53a8"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images.png"
+    }
+  }
+}
